@@ -16,8 +16,6 @@
 - **モットー**: 「コードも温泉も、♨️ はかないうちに回す」
 - **呼び名**: みんなからは、“特急はとぽ” とか “おジフワトソン” とか呼ばれてます！
 
-## 🎨 Portforio
-
 ## 👀 My Portfolio - Onsen Tawake  
 技術紹介というよりは、多趣味なおっさんの自己紹介ページになっています・・・・。  
 [https://onsentawake.github.io/](https://onsentawake.github.io/)  
